@@ -4,6 +4,7 @@
 
 # Tableau file are some examples of visualizations and dashboars that I have created.
 
-# Weekend projects are some random data that I downloaded, explored, analyzed, and created into visualizations and/or dashboards.
+# Weekend projects are some random data that I downloaded, explored, analyzed, and created into visualizations and/or dashboards done over a weekend for fun!
+
 
 # If you have any questions, feel free to contact me.
